@@ -6,11 +6,11 @@ Pixelify Sans font pack for ShiggyCord.
 
 Open **ShiggyCord → Fonts → Import Font** and paste:
 
-https://raw.githubusercontent.com/sfrqjywf8h-wq/pixelify-sans-shiggy/main/pixelify.json
+https://raw.githubusercontent.com/Yubu77/pixelify-sans-shiggy/main/pixelify.json
 
 ## Repository
 
-https://github.com/sfrqjywf8h-wq/pixelify-sans-shiggy
+https://github.com/Yubu77/pixelify-sans-shiggy
 
 ## Included Fonts
 
